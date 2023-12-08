@@ -4,3 +4,5 @@ https://pkg.go.dev/net/http
 https://pkg.go.dev/github.com/go-chi/chi
 https://pkg.go.dev/std
 https://www.algolia.com/doc/guides/getting-started/how-algolia-works/
+
+https://atos-digital.github.io/learning-bootcamp/introduction.html
