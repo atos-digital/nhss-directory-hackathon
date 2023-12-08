@@ -1,0 +1,6 @@
+https://gobyexample.com/
+https://app.slack.com/client/T05CJB2A6DC/C062FB3CZAR
+https://pkg.go.dev/net/http
+https://pkg.go.dev/github.com/go-chi/chi
+https://pkg.go.dev/std
+https://www.algolia.com/doc/guides/getting-started/how-algolia-works/
